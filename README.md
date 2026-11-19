@@ -5,47 +5,48 @@
 <h1 align="center">CleanMyMacKeyboard</h1>
 
 <p align="center">
-  Lock your Mac's keyboard and trackpad for a few minutes so you can wipe them clean<br>
-  without typing into apps or firing off shortcuts.
+  Clean your Mac's keyboard and trackpad without typing random text,<br>
+  closing apps by accident or clicking things you didn't mean to.
 </p>
 
 <p align="center">
   <a href="https://github.com/SGLara/cleanmymackeyboard-releases/releases/latest"><b>Download the latest version</b></a> ·
   <a href="https://cleanmymackeyboard.app">Website</a> ·
-  <a href="https://cleanmymackeyboard.app/changelog">Changelog</a>
+  <a href="https://cleanmymackeyboard.app/changelog">What's new</a>
 </p>
 
 ---
 
-This repository hosts the official, Apple-notarized builds of CleanMyMacKeyboard and their release notes. The app's source code is private.
+## How it works
+
+1. Open CleanMyMacKeyboard.
+2. Choose how long you need: 30 seconds, 1, 2 or 5 minutes.
+3. Press **Start** and clean away. Your keyboard and trackpad ignore every touch.
+
+When the time is up, everything works again on its own. Finished early? Press <kbd>⇧</kbd><kbd>⌥</kbd><kbd>⌘</kbd><kbd>L</kbd>.
 
 ## Install
 
-1. Download `CleanMyMacKeyboard-X.Y.Z.dmg` from the [latest release](https://github.com/SGLara/cleanmymackeyboard-releases/releases/latest).
-2. Open the DMG and drag **CleanMyMacKeyboard** into **Applications**.
-3. Open the app and grant **Accessibility** access when asked. macOS requires it for any app that blocks keyboard and trackpad input.
+1. Download the latest version from the [releases page](https://github.com/SGLara/cleanmymackeyboard-releases/releases/latest).
+2. Open the downloaded file and drag **CleanMyMacKeyboard** into your **Applications** folder.
+3. Open the app and allow the permission it asks for. It needs it to pause your keyboard and trackpad.
 
-Requires macOS 13 or later, on Apple silicon or Intel.
+Works on macOS 13 (Ventura) or later.
 
-## Using it
+## Try it free
 
-Pick how long to lock (30 s, 1 min, 2 min or 5 min) and press **Start**. The keyboard and trackpad stop responding and unlock on their own when the timer ends. To unlock early, press <kbd>⇧</kbd><kbd>⌥</kbd><kbd>⌘</kbd><kbd>L</kbd>.
+Use every feature free for 14 days. Your trial starts the first time you clean. After that, a one-time **$3.99** purchase unlocks it for life on up to 3 of your Macs, including all future updates. No subscription.
 
-## Trial and license
+[Buy a license](https://cleanmymackeyboard.app/#pricing)
 
-Every feature is free for 14 days, starting the first time you lock your keyboard. After that, a one-time **$3.99 lifetime license** keeps it going on up to 3 of your Macs, with free updates. [Buy a license](https://cleanmymackeyboard.app/#pricing).
+Already have a license key? Enter it in the app's **Settings**. If you bought before November 2026, your key keeps working as always.
 
-Already bought one? Enter your key in **Settings**. Keys bought before November 2026 keep working; nothing to do.
+## Staying up to date
 
-## Updates
+The app lets you know when a new version is ready. You can also check anytime from the app menu with **Check for Updates…**.
 
-The app checks for updates automatically (or use **Check for Updates…** in the app menu). Every build here is:
+## Need help?
 
-- signed with a Developer ID and **notarized by Apple**, so Gatekeeper opens it without warnings
-- signed for Sparkle, so the app only installs updates that come from this project
+Questions, a problem, or a lost license key? Reach out through **Support** at the bottom of [cleanmymackeyboard.app](https://cleanmymackeyboard.app).
 
-## Help
-
-Questions, bugs or a lost license key: use **Support** at the bottom of [cleanmymackeyboard.app](https://cleanmymackeyboard.app). Please include your macOS version and app version (**About CleanMyMacKeyboard**).
-
-Privacy and terms: [privacy policy](https://cleanmymackeyboard.app/privacy) · [terms](https://cleanmymackeyboard.app/terms)
+[Privacy policy](https://cleanmymackeyboard.app/privacy) · [Terms](https://cleanmymackeyboard.app/terms)
