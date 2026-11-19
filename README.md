@@ -47,6 +47,6 @@ The app lets you know when a new version is ready. You can also check anytime fr
 
 ## Need help?
 
-Questions, a problem, or a lost license key? Reach out through **Support** at the bottom of [cleanmymackeyboard.app](https://cleanmymackeyboard.app).
+Questions, a problem, or a lost license key? Email **[support@steven-lara.dev](mailto:support@steven-lara.dev)** and we'll get back to you.
 
 [Privacy policy](https://cleanmymackeyboard.app/privacy) · [Terms](https://cleanmymackeyboard.app/terms)
